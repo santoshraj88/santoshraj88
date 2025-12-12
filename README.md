@@ -19,5 +19,5 @@ Welcome to my GitHub! I'm passionate about building responsive, user-friendly we
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql" />
 </p>
