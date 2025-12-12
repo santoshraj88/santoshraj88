@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santosh Raj
 
-## Full-Stack Web Developer | Frontend Enthusiast | Problem Solver
+## Full-Stack Web Developer
 
 Welcome to my GitHub! I'm passionate about building responsive, user-friendly web applications and solving complex technical challenges.
 
@@ -8,11 +8,9 @@ Welcome to my GitHub! I'm passionate about building responsive, user-friendly we
 
 ## 🚀 About Me
 
-- 💻 Full-stack web developer with expertise in modern JavaScript frameworks
-- 🎯 Focused on creating clean, scalable, and maintainable code
-- 🌱 Continuously learning and exploring new technologies
-- 🤝 Open to collaboration on innovative projects
-- 📍 Based in [Your Location]
+I am Santosh Kumar, Full-stack web developer working with front-end and back-end tools to build clean and responsive websites.
+I focus on creating clear, easy-to-use, and responsive pages that work smoothly on all devices.
+I enjoy learning new technologies and collaborating on projects that help me grow as a developer.
 
 ---
 
