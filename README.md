@@ -19,9 +19,9 @@ Welcome to my GitHub! I'm passionate about building responsive, user-friendly we
 ## 🛠️ Tech Stack
 
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=oracle&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-3B3B3B?style=for-the-badge&logo=html5&logoColor=E44D26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-3B3B3B?style=for-the-badge&logo=css3&logoColor=264DE4" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-3B3B3B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-3B3B3B?style=for-the-badge&logo=oracle&logoColor=E11F21" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-3B3B3B?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="SQL"/>
 </div>
