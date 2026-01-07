@@ -10,7 +10,7 @@ I enjoy learning new technologies and collaborating on projects that help me gro
   <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql" />
 </p>
 
-## 🌐 Socials
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
