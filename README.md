@@ -5,8 +5,9 @@ Full-stack web developer working with front-end and back-end tools to build clea
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode,github" />
 </p>
+
 
 
 
