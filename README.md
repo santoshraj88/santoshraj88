@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Santosh Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Problem+Solver;Linux+User;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Problem+Solver;&center=true&width=500&height=50">
 </p>
+
 ## 💻 Tech Stack
 
 <p align="left">
