@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Santosh Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Problem+Solver;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Problem+Solver;&center=true&width=500&height=50">
 </p>
 
 ## 💻 Tech Stack
@@ -12,6 +12,7 @@
 
 
 
+<hr>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
